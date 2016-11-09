@@ -17,7 +17,6 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
   First
   Responsive
   Interactive
@@ -26,8 +25,7 @@ Once the project moves into development, the press release can be used as a touc
   Droid
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-  - Your child's home companion and chore manager.
+  Your child's home companion and chore manager.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
@@ -55,28 +53,21 @@ Once the project moves into development, the press release can be used as a touc
   - Sending child memos
   - Homework reminders and help
 
-
-
 ## Problem ##
-  > Describe the problem your product solves.
   Parents are working a record number of hours, and our nation's children are suffering for it. FRIEND gives those neglected children a warm welcome home, a reminder to have a healthy snack, and to help them with their homework.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
   FRIEND is an integrated Alexa/desktop service that provides a central place for parents to track their children's responsibilities and safety. Alexa gently prompts the child to provide information about his/her day, records required homework, reminds them about their chores, and suggests eating a healthy snack! Parents can check to see if their child made it home, assign chores, and send notes to their child through Alexa on their computers or mobile device.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
   "The future of parenting is now with a FRIEND in every home"
   - Me
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
   Designed for Amazon Alexa users, concerned parents may install and use this service .....
+
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
   "I work 100 hours a week and don't have time to spend with my little Johnny at home. With FRIEND, I'm able to make sure that he's doing his homework and chores while I work. I'm now able to spend more quality time actually connecting with my son in the few hours I see him every week. Thanks FRIEND!" - Maria Avergüenza
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
   Buy one now!
