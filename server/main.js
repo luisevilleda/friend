@@ -1,3 +1,6 @@
+// import connection from './db/connection';
+const db = require('./db/connection');
+const initializeSchemas = require('./db/initializeSchemas');
 const express = require('express');
 const debug = require('debug')('app:server');
 const webpack = require('webpack');
